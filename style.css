@@ -1,0 +1,10 @@
+.clicker {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:honeydew;
+}
+
+body {
+    background-color: darkblue;
+}

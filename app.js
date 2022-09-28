@@ -11,8 +11,8 @@ document.body.addEventListener("click", function() {
 });
 
 
-
-
+ var savedCC = localStorage.savedCC
+clickCountDisplay.textContent = savedCC
 
 
 
